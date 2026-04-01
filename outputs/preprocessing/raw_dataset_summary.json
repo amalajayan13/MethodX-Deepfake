@@ -1,0 +1,22 @@
+{
+  "RAW_FFPP": {
+    "path": "Datasets\\Raw-datasets\\FaceForensicsPP",
+    "exists": true,
+    "total_files": 6003
+  },
+  "RAW_CELEBDF": {
+    "path": "Datasets\\Raw-datasets\\CelebDF\\Celeb-DF-v2",
+    "exists": true,
+    "total_files": 6530
+  },
+  "RAW_FFHQ": {
+    "path": "Datasets\\Raw-datasets\\GANFaces\\FFHQ\\real",
+    "exists": true,
+    "total_files": 70000
+  },
+  "RAW_STYLEGAN": {
+    "path": "Datasets\\Raw-datasets\\GANFaces\\StyleGAN\\fake",
+    "exists": true,
+    "total_files": 71763
+  }
+}
