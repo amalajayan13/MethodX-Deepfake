@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/dullaz/1m-ai-generated-faces-128x128, https://ww
 http://kaldir.vc.in.tum.de/faceforensics_download_v4.py
 
 ## Google Drive
-Contains all outputs, v1.1 code, raw-datasets
+Contains all outputs, v1.1 code, and raw datasets
 https://drive.google.com/drive/folders/16tmvQ4uGgvTZbW0S53cavDQYsrGXnZwK?usp=drive_link
 
 ## Zenodo
